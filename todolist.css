@@ -1,0 +1,9 @@
+#todoarea {
+
+}
+
+td.done {
+	text-decoration: line-through;
+}
+td.undone {
+}
